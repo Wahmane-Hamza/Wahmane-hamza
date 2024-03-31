@@ -1,5 +1,4 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg)](http://ww38.rishavchanda.io/)
-
+[![MasterHead](<p align="center"><img height="400px" src="https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg" alt="abdo-nsila" /></p>)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wahmane-hamza&label=Profile%20views&color=0e75b6&style=flat" alt="wahmane-hamza" /> </p>
 <br/>
 
