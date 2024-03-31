@@ -1,8 +1,12 @@
 [![MasterHead](https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg)](http://ww38.rishavchanda.io/)
-<center>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahmane-hamza&label=Profile%20views&color=0e75b6&style=flat" alt="wahmane-hamza" /> </p>
 <br/>
+
+<center>
 <p align="left"> <a href="https://twitter.com/WahmaneHamza" target="blank"><img src="https://img.shields.io/twitter/follow/WahmaneHamza?logo=twitter&style=for-the-badge" alt="hamza wahmane" /></a> </p>
+</center>
+
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahmane-hamza&show_icons=true&locale=en&layout=compact" alt="wahmane-hamza" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahmane-hamza&show_icons=true&locale=en" alt="wahmane-hamza" /></p>
-
-</center>
