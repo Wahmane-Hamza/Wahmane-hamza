@@ -20,6 +20,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wahmane-hamza&" alt="wahmane-hamza" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahmane-hamza&show_icons=true&locale=en&layout=compact" alt="wahmane-hamza" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wahmane-hamza&show_icons=true&locale=en&layout=compact" alt="wahmane-hamza" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wahmane-hamza&show_icons=true&locale=en" alt="wahmane-hamza" /></p>
