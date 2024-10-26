@@ -5,7 +5,7 @@
 
 <br/>
 
-<a href="https://github.com/ilorez" width="100%">
+<a href="https://github.com/hwahmane" width="100%">
   <img height=320 align="center" width="100%" src="https://badge.mediaplus.ma/greenbinary/hwahmane" />
 </a>
 
