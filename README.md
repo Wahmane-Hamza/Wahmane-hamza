@@ -1,14 +1,14 @@
-<p align="center"><img height="400px" src="https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg" alt="hamza wahmane" /></p>
+<a href="https://github.com/hwahmane" width="100%">
+  <img height=640 align="center" width="200%" src="https://badge.mediaplus.ma/greenbinary/hwahmane" />
+</a>
+
 <h1 align="center">Hi, I'm Hamza</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wahmane-hamza&label=Profile%20views&color=0e75b6&style=flat" alt="wahmane-hamza" /> </p>
 
 <br/>
 
-<a href="https://github.com/hwahmane" width="100%">
-  <img height=320 align="center" width="100%" src="https://badge.mediaplus.ma/greenbinary/hwahmane" />
-</a>
-
+<p align="center"><img height="400px" src="https://c4.wallpaperflare.com/wallpaper/851/501/292/programming-code-minimalism-wallpaper-preview.jpg" alt="hamza wahmane" /></p>
 <br/>
 
 <h3 align="center">Connect with me:</h3>
