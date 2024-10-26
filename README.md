@@ -20,13 +20,13 @@
 
 <h1></h1>
 <a href="https://github.com/Wahmane-Hamza" width="100%">
-  <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Wahmane-Hamza&show_icons=true&card_width=500&theme=dark" />
+  <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Wahmane-Hamza&show_icons=true&card_width=500&theme=purple" />
 </a>
 <h1></h1>
 <a href="https://github.com/Wahmane-Hamza" align="center" width="100%">
-  <img height=200 align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahmane-Hamza&show_icons=true&card_width=500&theme=dark" />
+  <img height=200 align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Wahmane-Hamza&show_icons=true&card_width=500&theme=purple" />
 </a>
 <h1></h1>
 <a href="https://github.com/Wahmane-Hamza" width="100%">
-  <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wahmane-Hamza&layout=compact&langs_count=20&card_width=550&theme=dark" />
+  <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Wahmane-Hamza&layout=compact&langs_count=20&card_width=550&theme=purple" />
 </a>
