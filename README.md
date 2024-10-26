@@ -1,14 +1,7 @@
-<div style="display: flex; align-items: center; justify-content: center; height: 300px; width: 100%; position: relative; background-color: #f3f3f3;">
-  <!-- Loading GIF -->
-  <img src="https://example.com/loading.gif" alt="Loading..." style="position: absolute; width: 40px; height: 40px;"/>
-
-  <!-- Your image with onload event -->
   <a href="https://github.com/hwahmane" style="width: 100%;">
-    <img height="300" align="center" width="150%" src="https://badge.mediaplus.ma/greenbinary/hwahmane" 
-         style="display: none;" 
-         onload="this.style.display='block'; this.previousElementSibling.style.display='none';"/>
+    <img height="300" align="center" width="150%" src="https://badge.mediaplus.ma/greenbinary/hwahmane"/>
   </a>
-</div>
+
 
 <h1 align="center">Hi, I'm Hamza</h1>
 
