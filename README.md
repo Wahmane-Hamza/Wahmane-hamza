@@ -1,5 +1,5 @@
 <a href="https://github.com/hwahmane" width="100%">
-  <img height=640 align="center" width="200%" src="https://badge.mediaplus.ma/greenbinary/hwahmane" />
+  <img height=300 align="center" width="150%" src="https://badge.mediaplus.ma/greenbinary/hwahmane" />
 </a>
 
 <h1 align="center">Hi, I'm Hamza</h1>
