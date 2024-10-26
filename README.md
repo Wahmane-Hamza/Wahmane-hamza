@@ -1,24 +1,8 @@
 <div style="display: flex; align-items: center; justify-content: center; height: 300px; width: 100%; position: relative; background-color: #f3f3f3;">
-  <!-- Loading spinner -->
-  <div style="
-      border: 4px solid #f3f3f3; 
-      border-top: 4px solid #3498db; 
-      border-radius: 50%; 
-      width: 40px; 
-      height: 40px; 
-      position: absolute; 
-      top: 50%; 
-      left: 50%; 
-      transform: translate(-50%, -50%); 
-      animation: 1s linear infinite spin;
-      /* Inline keyframes */
-      @keyframes spin {
-        0% { transform: rotate(0deg); }
-        100% { transform: rotate(360deg); }
-      }">
-  </div>
+  <!-- Loading GIF -->
+  <img src="https://example.com/loading.gif" alt="Loading..." style="position: absolute; width: 40px; height: 40px;"/>
 
-  <!-- Image with inline onload to hide spinner -->
+  <!-- Your image with onload event -->
   <a href="https://github.com/hwahmane" style="width: 100%;">
     <img height="300" align="center" width="150%" src="https://badge.mediaplus.ma/greenbinary/hwahmane" 
          style="display: none;" 
