@@ -18,7 +18,6 @@
 <a href="https://www.instagram.com/wahmane.hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza wahmane" height="30" width="40" /></a>
 </p>
 
-
 <h1></h1>
 <a href="https://github.com/Wahmane-Hamza" width="100%">
   <img height=200 align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Wahmane-Hamza&show_icons=true&card_width=500&theme=tokyonight" />
