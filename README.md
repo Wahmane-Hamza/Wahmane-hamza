@@ -2,7 +2,6 @@
     <img height="300" align="center" width="150%" src="https://badge.mediaplus.ma/greenbinary/hwahmane"/>
   </a>
 
-
 <h1 align="center">Hi, I'm Hamza</h1>
 
 
